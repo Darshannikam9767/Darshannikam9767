@@ -1,430 +1,201 @@
 # Hi, I'm Darshan Nikam 👋
 
-## MCA Student | Full-Stack Developer | Frontend & Backend Development
+### Full-Stack Developer | MCA Student | BCA Graduate
 
-I am an **MCA student and BCA graduate** with hands-on experience in full-stack web development.
+I build **responsive web applications and REST APIs** with a focus on both **frontend and backend development**.
 
-I enjoy building **responsive, interactive, and user-friendly frontend applications** using **React.js, JavaScript, HTML5, CSS3, and Tailwind CSS**, as well as developing backend applications and REST APIs using **Node.js, Express.js, Python, and Flask**.
+My core stack includes **React.js, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, Python, Flask, PostgreSQL, MySQL, and Java/Jakarta EE**.
 
-I have experience working with **MongoDB, MySQL, PostgreSQL, and Supabase**, along with **Java, Jakarta EE, Java Servlets, SQLAlchemy, and JDBC**.
+Currently, I am refining my **frontend and backend development skills** while exploring **Data Science and data analysis**.
 
-I am currently focused on refining my **frontend and backend development skills** while beginning to explore **Data Science and data analysis**.
+📫 **Connect with me**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/darshannikam">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
+  </a>
+  &nbsp;
+  <a href="mailto:darshannikam64@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="38" />
+  </a>
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 🎨 Frontend Development
+### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" height="45" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
 **React.js · JavaScript · HTML5 · CSS3 · Tailwind CSS**
 
-* Responsive Web Design
-* Component-Based UI Development
-* Interactive User Interfaces
-* REST API Integration
-* Fetch API
-* Frontend Application Development
-* Reusable Components
-
 ---
 
-## ⚙️ Backend Development
+### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java" height="45" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java" />
 </p>
 
-**Node.js · Express.js · Python · Flask · Java · Jakarta EE · Java Servlets**
-
-* REST API Development
-* CRUD Operations
-* Authentication
-* Authorization
-* Session Management
-* Role-Based Access Control
-* Backend Application Development
-* API Integration
+**Node.js · Express.js · Python · Flask · Java · Jakarta EE · Java Servlets · REST APIs**
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" height="45" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
 </p>
 
-**MongoDB · MySQL · PostgreSQL · Supabase · SQL**
-
-* Database Design
-* Relational Database Design
-* SQLAlchemy
-* JDBC
-* Database Integration
-* CRUD Operations
+**MongoDB · MySQL · PostgreSQL · Supabase · SQL · SQLAlchemy · JDBC**
 
 ---
 
-## 💻 Programming Languages
+### 📊 Data & NLP
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php" height="45" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**Python · Java · C++ · C · JavaScript · PHP**
+**Pandas · NumPy · scikit-learn · TF-IDF · Cosine Similarity · NLP**
 
 ---
 
-## 🔧 Tools & Development
+### 🔧 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse" />
 </p>
 
-**Git · GitHub · VS Code · Postman · Eclipse IDE**
+**Git · GitHub · Postman · VS Code · Eclipse IDE**
 
 ---
 
-## 🧠 NLP & Data
+## 🚀 Featured Projects
 
-**scikit-learn · TF-IDF · Cosine Similarity · Natural Language Processing · Pandas · NumPy**
+### 🔗 MERN URL Shortener
 
----
+Full-stack URL shortening platform built with the **MERN stack**.
 
-# 🚀 Featured Projects
+- URL shortening and custom aliases
+- User authentication
+- User-specific URL management
+- Click tracking
+- REST APIs with Express.js and Node.js
+- MongoDB data persistence
+- Responsive React frontend
 
-## 🔗 MERN URL Shortener
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-A full-stack URL shortening application developed using the **MERN stack**.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="40" />
-</p>
-
-**Technologies:** React.js · Node.js · Express.js · MongoDB · JavaScript
-
-### Features
-
-* URL shortening
-* Custom short URLs
-* User authentication
-* User-specific URL management
-* REST API integration
-* MongoDB database operations
-* Click tracking
-* React-based frontend
-* Express.js backend
-* Node.js server
-
-### Repositories
-
-* [Frontend Repository](https://github.com/Darshannikam9767/url-shortner-frontend)
-* [Backend Repository](https://github.com/Darshannikam9767/url-shortner-backend)
+📁 [Frontend Repository](https://github.com/Darshannikam9767/url-shortner-frontend)  
+📁 [Backend Repository](https://github.com/Darshannikam9767/url-shortner-backend)
 
 ---
 
-## 🤖 Campus Buddy — NLP-Based College Assistant
+### 🤖 Campus Buddy — NLP-Based College Assistant
 
-A college assistant application designed to answer student queries about college information using **Python, Flask, PostgreSQL, and NLP techniques**.
+NLP-based college assistant for handling student queries about college information.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,postgresql,js" height="40" />
-</p>
+- FAQ, faculty, department, timetable, event and announcement management
+- TF-IDF and cosine similarity for query matching
+- Failed-query logging for FAQ and query-system improvement
+- PostgreSQL database with SQLAlchemy
+- Admin authentication
+- OTP-based password reset
 
-**Technologies:** Python · Flask · PostgreSQL · SQLAlchemy · scikit-learn · JavaScript · HTML · CSS
-
-### Features
-
-* RESTful Flask backend
-* FAQ management
-* Faculty and department information
-* Announcements
-* NLP-based query matching
-* TF-IDF vectorization
-* Cosine similarity
-* Failed-query logging
-* PostgreSQL database
-* Admin authentication
-* OTP-based password reset
-* Password hashing
-
-The application uses **TF-IDF and cosine similarity** to match user queries with relevant information. Unmatched queries are logged for improving the FAQ and query-processing system.
+**Stack:** `Python` `Flask` `PostgreSQL` `SQLAlchemy` `scikit-learn` `JavaScript`
 
 ---
 
-## 🏫 FutureTech ERP — College Management System
+### 🏫 FutureTech ERP — College Management System
 
-A Java-based college management system developed using **Jakarta EE, Java Servlets, and JDBC**.
+Java-based college management system developed using **Jakarta EE, Java Servlets, and JDBC**.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,html,css" height="40" />
-</p>
+- Student registration
+- Course management
+- Fee tracking
+- Assignment management
+- Admin settings
+- Role-based access control
+- Session-based authentication
+- Parameterized SQL queries
 
-**Technologies:** Java · Jakarta EE · Java Servlets · JDBC · HTML · CSS
-
-### Modules
-
-* Student Registration
-* Course Management
-* Fee Tracking
-* Assignment Submission and Review
-* Admin Settings
-
-### Technical Implementation
-
-* 29 Java Servlet classes
-* CRUD operations
-* Role-Based Access Control
-* Admin and student sessions
-* HttpSession-based authentication
-* Centralized JDBC layer
-* Parameterized SQL queries
-* Database-driven application architecture
+**Stack:** `Java` `Jakarta EE` `Java Servlets` `JDBC` `MySQL`
 
 ---
 
-## 🌐 React Developer Portfolio
+### 🌐 Personal Developer Portfolio
 
-A React-based personal portfolio website for presenting projects, technical skills, and development work.
+Responsive React-based developer portfolio showcasing projects, technical skills, and development work.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" height="40" />
-</p>
+**Stack:** `React.js` `JavaScript` `Tailwind CSS`
 
-**Technologies:** React.js · JavaScript · HTML5 · CSS3
-
-The project focuses on **responsive frontend development, component-based UI development, and presenting software projects through a personal developer portfolio**.
+📁 [Portfolio Repository](https://github.com/Darshannikam9767/main-portfolio)
 
 ---
 
-# 💼 Professional Experience
+## 💼 Experience & Education
 
-## Web Development Intern — The Bright Future-Tech Pvt. Ltd.
+### Web Development Intern
 
-**January 2026 – February 2026**
+**The Bright Future-Tech Pvt. Ltd.**  
+*January 2026 – February 2026*
 
-Completed a one-month industry internship in web development with hands-on exposure to professional development practices, version control workflows, and collaborative software delivery.
+- Web application development
+- REST workflows
+- Git and version control
+- Collaborative development
 
-### Experience
-
-* Web application development
-* Version control workflows
-* Software development practices
-* Development tasks under professional mentorship
-* Collaborative software delivery
-
----
-
-# 🎓 Education
-
-## Master of Computer Applications — MCA
+### Master of Computer Applications — MCA
 
 **Currently Pursuing**
 
----
-
-## Bachelor of Computer Applications — BCA
+### Bachelor of Computer Applications — BCA
 
 **Shri Sai Baba College, Shirdi | Savitribai Phule Pune University**
 
-**2023 – 2026 | Graduated**
+*2023 – 2026*
 
-**CGPA: 8.46 / 10 | A+ Grade**
+**CGPA: 8.46 / 10 · A+ Grade**
 
----
-
-# 📜 Certification
-
-## Complete Web Development Course
+### Complete Web Development Course
 
 **Udemy — Hitesh Choudhary**
 
-* Duration: 97 hours
-* Completed: December 2025
+*97 hours · December 2025*
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-I am currently focused on refining my **frontend and backend development skills** while expanding my knowledge of **Data Science and data analysis**.
+I am currently focused on refining my **frontend and backend development skills** while exploring **Data Science and data analysis**.
 
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" height="45" />
-</p>
+React.js · Component Architecture · Responsive Design · Modern UI Development · API Integration
 
-* React.js Development
-* Component Architecture
-* Responsive Web Design
-* Modern UI Development
-* Frontend Performance
-* API Integration
-* Reusable Components
-* User Interface Development
+### ⚙️ Backend Development
 
-## ⚙️ Backend Development
+Node.js · Express.js · REST API Design · Backend Architecture · Authentication · MongoDB · PostgreSQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,flask,postgresql" height="45" />
-</p>
+### 📊 Data Science
 
-* Node.js Backend Development
-* Express.js
-* REST API Design
-* Backend Architecture
-* Authentication and Authorization
-* MongoDB Database Development
-* PostgreSQL Database Development
-* API Performance and Optimization
-
-## 📊 Data Science
-
-I am beginning to explore **Data Science** and building my foundation in working with data.
-
-Currently exploring:
-
-* Python for Data Science
-* NumPy
-* Pandas
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Statistics
-* Data Analysis
+Python for Data Science · NumPy · Pandas · Data Cleaning · Exploratory Data Analysis · Data Visualization · Statistics · Data Analysis
 
 ---
 
-# 🎯 Development Focus
+## 🎯 Current Focus
 
-I enjoy working across the complete web development stack, with a strong interest in both **frontend development and backend engineering**.
+**Frontend** → React.js → JavaScript → HTML5 → CSS3 → Tailwind CSS
 
-### Frontend
+**Backend** → Node.js → Express.js → REST APIs
 
-**React.js → JavaScript → HTML5 → CSS3 → Tailwind CSS**
+**Databases** → MongoDB → MySQL → PostgreSQL → Supabase
 
-### Backend
-
-**Node.js → Express.js → REST APIs**
-
-**Python → Flask → REST APIs**
-
-### Databases
-
-**MongoDB · MySQL · PostgreSQL · Supabase**
-
-### Exploring Next
-
-**Python → NumPy → Pandas → Data Analysis → Data Science**
-
-My current goal is to become stronger at building **well-structured frontend applications, reliable backend systems, and data-driven applications**.
-
-I am particularly interested in:
-
-* Frontend Development
-* Backend Engineering
-* Full-Stack Development
-* REST API Design
-* Database Design
-* Responsive Web Development
-* Application Performance
-* Data Science
-* Data Analysis
-* Natural Language Processing
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Darshannikam9767">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/darshannikam">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:darshannikam64@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-</p>
-
----
-
-# 👨‍💻 Developer Profile
-
-```javascript
-const darshan = {
-    currentRole: "Full-Stack Developer",
-
-    education: [
-        "MCA - Currently Pursuing",
-        "BCA Graduate - CGPA 8.46"
-    ],
-
-    frontend: [
-        "React.js",
-        "JavaScript",
-        "HTML5",
-        "CSS3",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "Python",
-        "Flask",
-        "Java",
-        "Jakarta EE"
-    ],
-
-    databases: [
-        "MongoDB",
-        "MySQL",
-        "PostgreSQL",
-        "Supabase"
-    ],
-
-    programmingLanguages: [
-        "Python",
-        "Java",
-        "JavaScript",
-        "C++",
-        "C",
-        "PHP"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman",
-        "Eclipse IDE"
-    ],
-
-    interests: [
-        "Frontend Development",
-        "Backend Engineering",
-        "Full-Stack Development",
-        "REST APIs",
-        "Database Design",
-        "Data Science",
-        "Data Analysis",
-        "NLP"
-    ],
-
-    currentlyImproving: [
-        "Frontend Development",
-        "Backend Development",
-        "Data Science"
-    ]
-};
-```
+**Data Science** → Python → NumPy → Pandas → Data Analysis
 
 ---
 
