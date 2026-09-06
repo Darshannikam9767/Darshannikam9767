@@ -133,6 +133,7 @@ Responsive React-based developer portfolio showcasing projects, technical skills
 
 **Stack:** `React.js` `JavaScript` `Tailwind CSS`
 
+📁 [Live URL](https://darshannikam-portfolio.vercel.app)
 📁 [Portfolio Repository](https://github.com/Darshannikam9767/main-portfolio)
 
 ---
