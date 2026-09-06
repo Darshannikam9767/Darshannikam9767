@@ -1,14 +1,101 @@
 # Hi, I'm Darshan Nikam 👋
 
-### Full-Stack Developer | MCA Student | BCA Graduate
+### Full-Stack Developer | MCA Student
 
-I build **responsive web applications and REST APIs** with a focus on both **frontend and backend development**.
+I build **responsive web applications, REST APIs, and database-driven systems**.
 
-My core stack includes **React.js, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, Python, Flask, PostgreSQL, MySQL, and Java/Jakarta EE**.
+Currently focused on **React.js, JavaScript, Node.js, Express.js, MongoDB, PostgreSQL, Python, and Java/Jakarta EE**, while exploring **Data Science and NLP**.
 
-Currently, I am refining my **frontend and backend development skills** while exploring **Data Science and data analysis**.
+---
 
-📫 **Connect with me**
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React.js · JavaScript · HTML5 · CSS3 · Tailwind CSS
+
+**Backend:**  
+Node.js · Express.js · Python · Flask · Java · Jakarta EE · REST APIs
+
+**Databases:**  
+MongoDB · MySQL · PostgreSQL · Supabase · SQL
+
+**Data & NLP:**  
+Python · NumPy · Pandas · scikit-learn · TF-IDF · NLP
+
+**Tools:**  
+Git · GitHub · Postman · VS Code · Eclipse
+
+---
+
+## 🚀 Featured Projects
+
+### 🔗 MERN URL Shortener
+
+Full-stack URL shortening platform with authentication, custom aliases, URL management, and click tracking.
+
+**React.js · Node.js · Express.js · MongoDB · Tailwind CSS**
+
+🔗 [Frontend](https://github.com/Darshannikam9767/url-shortner-frontend)  
+🔗 [Backend](https://github.com/Darshannikam9767/url-shortner-backend)
+
+---
+
+### 🤖 Campus Buddy
+
+NLP-based college assistant for student queries using **TF-IDF and cosine similarity**, with FAQ, faculty, timetable, event, and announcement management.
+
+**Python · Flask · PostgreSQL · SQLAlchemy · scikit-learn**
+
+---
+
+### 🏫 FutureTech ERP
+
+College management system built with **Jakarta EE, Java Servlets, JDBC, and MySQL**, featuring student, course, fee, assignment, and role-based management.
+
+**Java · Jakarta EE · Servlets · JDBC · MySQL**
+
+---
+
+### 🌐 Developer Portfolio
+
+Responsive developer portfolio built with React and Tailwind CSS.
+
+🔗 [Live Portfolio](https://darshannikam-portfolio.vercel.app)  
+🔗 [Repository](https://github.com/Darshannikam9767/main-portfolio)
+
+---
+
+## 💼 Experience
+
+**Web Development Intern — The Bright Future-Tech Pvt. Ltd.**  
+*January 2026 – February 2026*
+
+Worked on web application development, REST workflows, Git, and collaborative development.
+
+---
+
+## 🎓 Education
+
+**MCA** — Currently Pursuing
+
+**BCA — Shri Sai Baba College, Shirdi**  
+Savitribai Phule Pune University  
+**CGPA: 8.46 / 10 · A+ Grade**
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Darshannikam9767&theme=dark&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/darshannikam">
@@ -22,182 +109,6 @@ Currently, I am refining my **frontend and backend development skills** while ex
 
 ---
 
-## 🛠️ Tech Stack
+### 🙏 Thank You!
 
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-</p>
-
-**React.js · JavaScript · HTML5 · CSS3 · Tailwind CSS**
-
----
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java" />
-</p>
-
-**Node.js · Express.js · Python · Flask · Java · Jakarta EE · Java Servlets · REST APIs**
-
----
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
-</p>
-
-**MongoDB · MySQL · PostgreSQL · Supabase · SQL · SQLAlchemy · JDBC**
-
----
-
-### 📊 Data & NLP
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Pandas · NumPy · scikit-learn · TF-IDF · Cosine Similarity · NLP**
-
----
-
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse" />
-</p>
-
-**Git · GitHub · Postman · VS Code · Eclipse IDE**
-
----
-
-## 🚀 Featured Projects
-
-### 🔗 MERN URL Shortener
-
-Full-stack URL shortening platform built with the **MERN stack**.
-
-- URL shortening and custom aliases
-- User authentication
-- User-specific URL management
-- Click tracking
-- REST APIs with Express.js and Node.js
-- MongoDB data persistence
-- Responsive React frontend
-
-**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
-📁 [Frontend Repository](https://github.com/Darshannikam9767/url-shortner-frontend)  
-📁 [Backend Repository](https://github.com/Darshannikam9767/url-shortner-backend)
-
----
-
-### 🤖 Campus Buddy — NLP-Based College Assistant
-
-NLP-based college assistant for handling student queries about college information.
-
-- FAQ, faculty, department, timetable, event and announcement management
-- TF-IDF and cosine similarity for query matching
-- Failed-query logging for FAQ and query-system improvement
-- PostgreSQL database with SQLAlchemy
-- Admin authentication
-- OTP-based password reset
-
-**Stack:** `Python` `Flask` `PostgreSQL` `SQLAlchemy` `scikit-learn` `JavaScript`
-
----
-
-### 🏫 FutureTech ERP — College Management System
-
-Java-based college management system developed using **Jakarta EE, Java Servlets, and JDBC**.
-
-- Student registration
-- Course management
-- Fee tracking
-- Assignment management
-- Admin settings
-- Role-based access control
-- Session-based authentication
-- Parameterized SQL queries
-
-**Stack:** `Java` `Jakarta EE` `Java Servlets` `JDBC` `MySQL`
-
----
-
-### 🌐 Personal Developer Portfolio
-
-Responsive React-based developer portfolio showcasing projects, technical skills, and development work.
-
-**Stack:** `React.js` `JavaScript` `Tailwind CSS`
-
-📁 [Live URL](https://darshannikam-portfolio.vercel.app)
-📁 [Portfolio Repository](https://github.com/Darshannikam9767/main-portfolio)
-
----
-
-## 💼 Experience & Education
-
-### Web Development Intern
-
-**The Bright Future-Tech Pvt. Ltd.**  
-*January 2026 – February 2026*
-
-- Web application development
-- REST workflows
-- Git and version control
-- Collaborative development
-
-### Master of Computer Applications — MCA
-
-**Currently Pursuing**
-
-### Bachelor of Computer Applications — BCA
-
-**Shri Sai Baba College, Shirdi | Savitribai Phule Pune University**
-
-*2023 – 2026*
-
-**CGPA: 8.46 / 10 · A+ Grade**
-
-### Complete Web Development Course
-
-**Udemy — Hitesh Choudhary**
-
-*97 hours · December 2025*
-
----
-
-## 📚 Currently Learning
-
-I am currently focused on refining my **frontend and backend development skills** while exploring **Data Science and data analysis**.
-
-### 🎨 Frontend Development
-
-React.js · Component Architecture · Responsive Design · Modern UI Development · API Integration
-
-### ⚙️ Backend Development
-
-Node.js · Express.js · REST API Design · Backend Architecture · Authentication · MongoDB · PostgreSQL
-
-### 📊 Data Science
-
-Python for Data Science · NumPy · Pandas · Data Cleaning · Exploratory Data Analysis · Data Visualization · Statistics · Data Analysis
-
----
-
-## 🎯 Current Focus
-
-**Frontend** → React.js → JavaScript → HTML5 → CSS3 → Tailwind CSS
-
-**Backend** → Node.js → Express.js → REST APIs
-
-**Databases** → MongoDB → MySQL → PostgreSQL → Supabase
-
-**Data Science** → Python → NumPy → Pandas → Data Analysis
-
----
-
-### Thanks for visiting my profile! 👋
+**Thank you for taking the time to visit my profile. I appreciate your interest!**
