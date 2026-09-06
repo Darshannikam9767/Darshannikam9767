@@ -60,7 +60,7 @@ College management system built with **Jakarta EE, Java Servlets, JDBC, and MySQ
 
 Responsive developer portfolio built with React and Tailwind CSS.
 
-🔗 [Live Portfolio](https://darshannikam-portfolio.vercel.app)  
+🔗 <a href="https://darshannikam-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">Live Portfolio</a>
 🔗 [Repository](https://github.com/Darshannikam9767/main-portfolio)
 
 ---
