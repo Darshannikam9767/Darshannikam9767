@@ -1,90 +1,165 @@
-# Hi, I'm Darshan Nikam 👋
+# ✦ Hey, I'm Darshan 👋
 
-### Full-Stack Developer | MCA Student
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=30&duration=3000&pause=1000&deleteSpeed=150&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Darshan+Nikam+%E2%9C%A8;Darshan+Nikam+%F0%9F%91%8B"
+    alt="Darshan Nikam"
+  />
+</p>
 
-I build **responsive web applications, REST APIs, and database-driven systems**.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=23&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Full-Stack+Developer;MCA+Student;React.js+%7C+Node.js+%7C+Express.js;Java+%7C+Jakarta+EE+%7C+Python"
+    alt="Professional Roles"
+  />
+</p>
 
-Currently focused on **React.js, JavaScript, Node.js, Express.js, MongoDB, PostgreSQL, Python, and Java/Jakarta EE**, while exploring **Data Science and NLP**.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Raleway&weight=500&size=17&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Building+clean+%26+practical+web+experiences.;Exploring+Data+Science+%26+NLP."
+    alt="Profile Description"
+  />
+</p>
+
+<p align="center">
+  <a href="https://darshannikam-portfolio.vercel.app">🌐 <b>Portfolio</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/darshannikam">💼 <b>LinkedIn</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:darshannikam64@gmail.com">📧 <b>Email</b></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## ✦ About Me
 
-**Frontend:**  
-React.js · JavaScript · HTML5 · CSS3 · Tailwind CSS
+I’m a **Full-Stack Developer** who enjoys building responsive web applications,
+REST APIs, and database-driven systems.
 
-**Backend:**  
-Node.js · Express.js · Python · Flask · Java · Jakarta EE · REST APIs
+Currently working with **React.js, JavaScript, Node.js, Express.js, MongoDB,
+PostgreSQL, Python, and Java/Jakarta EE**, while exploring **Data Science and NLP**.
 
-**Databases:**  
-MongoDB · MySQL · PostgreSQL · Supabase · SQL
-
-**Data & NLP:**  
-Python · NumPy · Pandas · scikit-learn · TF-IDF · NLP
-
-**Tools:**  
-Git · GitHub · Postman · VS Code · Eclipse
+🎓 **BCA — 8.46 CGPA | A+ Grade**  
+🎓 **MCA — Currently Pursuing**
 
 ---
 
-## 🚀 Featured Projects
+## ✦ Tech Stack
 
-### 🔗 MERN URL Shortener
+### 🎨 Frontend
 
-Full-stack URL shortening platform with authentication, custom aliases, URL management, and click tracking.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+**React.js** · *JavaScript* · HTML5 · CSS3 · **Tailwind CSS**
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java" />
+</p>
+
+**Node.js** · Express.js · *Python* · Flask · **Java** · Jakarta EE · REST APIs
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+</p>
+
+**MongoDB** · MySQL · PostgreSQL · Supabase · SQL · JDBC · SQLAlchemy
+
+### 📊 Data & NLP
+
+`Python` · `NumPy` · `Pandas` · `scikit-learn` · `TF-IDF` · `Cosine Similarity` · `NLP`
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse" />
+</p>
+
+`Git` · `GitHub` · `Postman` · `VS Code` · `Eclipse`
+
+---
+
+# ✦ Featured Projects
+
+## 🔗 MERN URL Shortener
+
+**A complete URL management platform built with the MERN stack.**
+
+Authentication · Custom Aliases · URL Management · Click Tracking
 
 **React.js · Node.js · Express.js · MongoDB · Tailwind CSS**
 
-🔗 [Frontend](https://github.com/Darshannikam9767/url-shortner-frontend)  
-🔗 [Backend](https://github.com/Darshannikam9767/url-shortner-backend)
+🔗 [Frontend Repository](https://github.com/Darshannikam9767/url-shortner-frontend)  
+🔗 [Backend Repository](https://github.com/Darshannikam9767/url-shortner-backend)
 
 ---
 
-### 🤖 Campus Buddy
+## 🤖 Campus Buddy
 
-NLP-based college assistant for student queries using **TF-IDF and cosine similarity**, with FAQ, faculty, timetable, event, and announcement management.
+**An NLP-powered college assistant for student queries.**
+
+Uses **TF-IDF + Cosine Similarity** to match queries with relevant college information.
+
+FAQ · Faculty · Departments · Timetable · Events · Announcements
 
 **Python · Flask · PostgreSQL · SQLAlchemy · scikit-learn**
 
 ---
 
-### 🏫 FutureTech ERP
+## 🏫 FutureTech ERP
 
-College management system built with **Jakarta EE, Java Servlets, JDBC, and MySQL**, featuring student, course, fee, assignment, and role-based management.
+**A college management system built with Java enterprise technologies.**
+
+Student Management · Courses · Fees · Assignments · Role-Based Access
 
 **Java · Jakarta EE · Servlets · JDBC · MySQL**
 
 ---
 
-### 🌐 Developer Portfolio
+## 🌐 Developer Portfolio
 
-Responsive developer portfolio built with React and Tailwind CSS.
+**My personal portfolio showcasing projects, skills, and development work.**
 
-🔗 <a href="https://darshannikam-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">Live Portfolio</a>
-🔗 [Repository](https://github.com/Darshannikam9767/main-portfolio)
+**React.js · JavaScript · Tailwind CSS**
+
+🌐 [Live Portfolio](https://darshannikam-portfolio.vercel.app)  
+📁 [Source Code](https://github.com/Darshannikam9767/main-portfolio)
 
 ---
 
-## 💼 Experience
+# ✦ Experience
 
-**Web Development Intern — The Bright Future-Tech Pvt. Ltd.**  
+### Web Development Intern
+
+**The Bright Future-Tech Pvt. Ltd.**
+
 *January 2026 – February 2026*
 
 Worked on web application development, REST workflows, Git, and collaborative development.
 
 ---
 
-## 🎓 Education
+# ✦ Education
 
-**MCA** — Currently Pursuing
+### 🎓 Master of Computer Applications
 
-**BCA — Shri Sai Baba College, Shirdi**  
-Savitribai Phule Pune University  
-**CGPA: 8.46 / 10 · A+ Grade**
+**Currently Pursuing**
+
+### 🎓 Bachelor of Computer Applications
+
+**Shri Sai Baba College, Shirdi**  
+Savitribai Phule Pune University
+
+**8.46 / 10 CGPA · A+ Grade**
 
 ---
 
-## 🔥 GitHub Activity
+# ✦ GitHub Activity
 
 <p align="center">
   <img
@@ -95,20 +170,35 @@ Savitribai Phule Pune University
 
 ---
 
-## 📫 Connect With Me
+# ✦ Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/darshannikam">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
+<p align="center">
+  <a href="https://darshannikam-portfolio.vercel.app">
+    🌐 <b>Portfolio</b>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/darshannikam">
+    💼 <b>LinkedIn</b>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:darshannikam64@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="38" />
+    📧 <b>Email</b>
   </a>
 </p>
 
 ---
 
-### 🙏 Thank You!
+<p align="center">
 
-**Thank you for taking the time to visit my profile. I appreciate your interest!**
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=22&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Thank+you+for+visiting+my+profile!+%E2%9C%A8"
+  alt="Thank You"
+/>
+
+<br>
+
+<sub>
+I appreciate you taking the time to explore my work.
+</sub>
+
+</p>
