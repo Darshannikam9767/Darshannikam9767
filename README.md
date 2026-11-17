@@ -1,165 +1,112 @@
-# ✦ Hey, I'm Darshan 👋
+<h1 align="center">Darshan Nikam</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=30&duration=3000&pause=1000&deleteSpeed=150&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Darshan+Nikam+%E2%9C%A8;Darshan+Nikam+%F0%9F%91%8B"
-    alt="Darshan Nikam"
-  />
+  <b>Full-Stack Developer</b> · React · Node.js · Express · MySQL · MongoDB
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=23&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Full-Stack+Developer;MCA+Student;React.js+%7C+Node.js+%7C+Express.js;Java+%7C+Jakarta+EE+%7C+Python"
-    alt="Professional Roles"
-  />
+  Software Developer at ScaleZen Technologies · MCA Student · Nashik, Maharashtra, India
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Raleway&weight=500&size=17&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Building+clean+%26+practical+web+experiences.;Exploring+Data+Science+%26+NLP."
-    alt="Profile Description"
-  />
-</p>
-
-<p align="center">
-  <a href="https://darshannikam-portfolio.vercel.app">🌐 <b>Portfolio</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/darshannikam">💼 <b>LinkedIn</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:darshannikam64@gmail.com">📧 <b>Email</b></a>
+  <a href="https://darshannikam-portfolio.vercel.app">🌐 Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/darshannikam">💼 LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:darshannikam64@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-## ✦ About Me
+## 👋 About Me
 
-I’m a **Full-Stack Developer** who enjoys building responsive web applications,
-REST APIs, and database-driven systems.
+I am a full-stack developer who builds complete web applications: the user-facing website, the backend APIs, the database, and the admin panel that clients use to manage their content.
 
-Currently working with **React.js, JavaScript, Node.js, Express.js, MongoDB,
-PostgreSQL, Python, and Java/Jakarta EE**, while exploring **Data Science and NLP**.
-
-🎓 **BCA — 8.46 CGPA | A+ Grade**  
-🎓 **MCA — Currently Pursuing**
+- 💼 I currently work as a **Software Developer at ScaleZen Technologies**, building and deploying websites and web apps for real clients.
+- 🧑‍💼 I **led a team** on a Java-based college ERP system.
+- 🤖 I built the **admin panel, backend and database** for an NLP-powered college chatbot.
+- 🎓 I am completing my **MCA**, after a BCA with **8.46 CGPA (A+ grade)**.
 
 ---
 
-## ✦ Tech Stack
+## 💼 Experience
 
-### 🎨 Frontend
+### Software Developer
+**ScaleZen Technologies Pvt. Ltd.** · September 2026 – Present
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-</p>
-
-**React.js** · *JavaScript* · HTML5 · CSS3 · **Tailwind CSS**
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java" />
-</p>
-
-**Node.js** · Express.js · *Python* · Flask · **Java** · Jakarta EE · REST APIs
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
-</p>
-
-**MongoDB** · MySQL · PostgreSQL · Supabase · SQL · JDBC · SQLAlchemy
-
-### 📊 Data & NLP
-
-`Python` · `NumPy` · `Pandas` · `scikit-learn` · `TF-IDF` · `Cosine Similarity` · `NLP`
-
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse" />
-</p>
-
-`Git` · `GitHub` · `Postman` · `VS Code` · `Eclipse`
-
----
-
-# ✦ Featured Projects
-
-## 🔗 MERN URL Shortener
-
-**A complete URL management platform built with the MERN stack.**
-
-Authentication · Custom Aliases · URL Management · Click Tracking
-
-**React.js · Node.js · Express.js · MongoDB · Tailwind CSS**
-
-🔗 [Frontend Repository](https://github.com/Darshannikam9767/url-shortner-frontend)  
-🔗 [Backend Repository](https://github.com/Darshannikam9767/url-shortner-backend)
-
----
-
-## 🤖 Campus Buddy
-
-**An NLP-powered college assistant for student queries.**
-
-Uses **TF-IDF + Cosine Similarity** to match queries with relevant college information.
-
-FAQ · Faculty · Departments · Timetable · Events · Announcements
-
-**Python · Flask · PostgreSQL · SQLAlchemy · scikit-learn**
-
----
-
-## 🏫 FutureTech ERP
-
-**A college management system built with Java enterprise technologies.**
-
-Student Management · Courses · Fees · Assignments · Role-Based Access
-
-**Java · Jakarta EE · Servlets · JDBC · MySQL**
-
----
-
-## 🌐 Developer Portfolio
-
-**My personal portfolio showcasing projects, skills, and development work.**
-
-**React.js · JavaScript · Tailwind CSS**
-
-🌐 [Live Portfolio](https://darshannikam-portfolio.vercel.app)  
-📁 [Source Code](https://github.com/Darshannikam9767/main-portfolio)
-
----
-
-# ✦ Experience
+- Build and maintain client websites and web applications using **React, Vite, Tailwind CSS and GSAP** on the frontend and **Node.js, Express.js and MySQL** on the backend.
+- Develop REST APIs, secure admin panels with role-based access for managing content and client enquiries, and responsive, animated user interfaces.
+- Handle deployment and take projects from development to a live website.
 
 ### Web Development Intern
+**The Bright Future-Tech Pvt. Ltd.** · January 2026 – February 2026
 
-**The Bright Future-Tech Pvt. Ltd.**
-
-*January 2026 – February 2026*
-
-Worked on web application development, REST workflows, Git, and collaborative development.
+- Worked on web application development, REST workflows, Git and team-based development.
 
 ---
 
-# ✦ Education
+## 🚀 Projects
 
-### 🎓 Master of Computer Applications
+### Professional Work at ScaleZen
 
-**Currently Pursuing**
+| Project | What it is | Tech |
+|---|---|---|
+| **Krushisetu** | Full-stack website with a public frontend, a backend API and an admin panel with role-based access to manage site content, client enquiries and more. Deployed to production | React, Vite, Express.js, MySQL |
+| **Shree Photos** | Website for a photography and printing studio, with a public site and an admin panel to manage content | React, Tailwind CSS, GSAP, Node.js |
+| **ScaleZen MIS** | Marketing website for an educational management platform, built with animations and a responsive design | React, Vite, Tailwind CSS, GSAP |
 
-### 🎓 Bachelor of Computer Applications
+### Personal and Academic Projects
 
-**Shri Sai Baba College, Shirdi**  
-Savitribai Phule Pune University
+#### 🏫 FutureTech ERP · *Team Lead*
+A college management system covering student records, courses, fees, assignments and role-based access.
+- Led the team: planned modules, divided work and coordinated development through Git.
+- **Tech:** Java, Jakarta EE, Servlets, JDBC, MySQL
 
-**8.46 / 10 CGPA · A+ Grade**
+#### 🤖 Campus Buddy · *Admin Panel, Backend and Database*
+An NLP-powered assistant that answers student questions about FAQs, faculty, departments, timetables, events and announcements. Developed with a teammate as our final-year project.
+- Built the **admin panel, backend and database** that let staff update the chatbot's knowledge.
+- The chatbot matches questions to answers using TF-IDF and cosine similarity.
+- **Tech:** Python, Flask, PostgreSQL, SQLAlchemy, scikit-learn
+
+#### 🔗 MERN URL Shortener
+A URL management platform with user authentication, custom aliases, link management and click tracking.
+- **Tech:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+- 🔗 [Frontend](https://github.com/Darshannikam9767/url-shortner-frontend) · [Backend](https://github.com/Darshannikam9767/url-shortner-backend)
+
+#### 🌐 Developer Portfolio
+My personal website showing my projects, skills and work.
+- **Tech:** React, JavaScript, Tailwind CSS
+- 🌐 [Live site](https://darshannikam-portfolio.vercel.app) · 📁 [Source code](https://github.com/Darshannikam9767/main-portfolio)
 
 ---
 
-# ✦ GitHub Activity
+## 🛠️ Skills
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | React.js, JavaScript, HTML5, CSS3, Tailwind CSS, GSAP |
+| **Backend** | Node.js, Express.js, REST APIs, Python, Flask, Java, Jakarta EE |
+| **Databases** | MySQL, MongoDB, PostgreSQL, Supabase, SQL, JDBC, SQLAlchemy |
+| **Data and NLP** | Python, NumPy, Pandas, scikit-learn, TF-IDF, Cosine Similarity |
+| **Tools** | Git, GitHub, Postman, VS Code, Eclipse |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mysql,mongodb,postgres,python,flask,java,git,github,postman,vscode" />
+</p>
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)** · Currently pursuing
+
+**Bachelor of Computer Applications (BCA)**
+Shri Sai Baba College, Shirdi · Savitribai Phule Pune University
+8.46 / 10 CGPA · A+ Grade
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -170,35 +117,14 @@ Savitribai Phule Pune University
 
 ---
 
-# ✦ Let's Connect
+## 📫 Let's Connect
+
+I am open to conversations about web development, new projects and collaboration.
 
 <p align="center">
-  <a href="https://darshannikam-portfolio.vercel.app">
-    🌐 <b>Portfolio</b>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/darshannikam">
-    💼 <b>LinkedIn</b>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:darshannikam64@gmail.com">
-    📧 <b>Email</b>
-  </a>
-</p>
-
----
-
-<p align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=22&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Thank+you+for+visiting+my+profile!+%E2%9C%A8"
-  alt="Thank You"
-/>
-
-<br>
-
-<sub>
-I appreciate you taking the time to explore my work.
-</sub>
-
+  <a href="https://darshannikam-portfolio.vercel.app">🌐 Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/darshannikam">💼 LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:darshannikam64@gmail.com">📧 Email</a>
 </p>
